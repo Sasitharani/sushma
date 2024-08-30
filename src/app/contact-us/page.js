@@ -4,7 +4,7 @@ export default function Contact() {
     return (
         <section className="bg-gray-100 text-gray-800 py-12">
           <div className="container mx-auto px-4">
-            <h2 className="text-3xl font-bold text-center mb-8">About Us</h2>
+            <h2 className="text-3xl font-bold text-center mb-8">Contact Us</h2>
             <p className="text-center mb-8">
               Welcome to <span className="font-bold">SIGMA CORP</span>!
             </p>
