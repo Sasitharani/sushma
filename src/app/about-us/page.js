@@ -35,6 +35,15 @@ export default function About() {
                 <li><span className="font-bold">Expertise</span>: With years of experience in the industry, we bring a wealth of knowledge and expertise to every project.</li>
                 <li><span className="font-bold">Customer-Centric</span>: Our clients are at the heart of everything we do. We listen, understand, and deliver solutions that meet their needs.</li>
                 <li><span className="font-bold">Innovation-Driven</span>: We stay ahead of the curve by continuously exploring new technologies and methodologies.</li>
+                <li><span className="font-bold">Expertise</span>: With years of experience in the industry, we bring a wealth of knowledge and expertise to every project.</li>
+                <li><span className="font-bold">Customer-Centric</span>: Our clients are at the heart of everything we do. We listen, understand, and deliver solutions that meet their needs.</li>
+                <li><span className="font-bold">Innovation-Driven</span>: We stay ahead of the curve by continuously exploring new technologies and methodologies.</li>
+                <li><span className="font-bold">Expertise</span>: With years of experience in the industry, we bring a wealth of knowledge and expertise to every project.</li>
+                <li><span className="font-bold">Customer-Centric</span>: Our clients are at the heart of everything we do. We listen, understand, and deliver solutions that meet their needs.</li>
+                <li><span className="font-bold">Innovation-Driven</span>: We stay ahead of the curve by continuously exploring new technologies and methodologies.</li>
+                <li><span className="font-bold">Expertise</span>: With years of experience in the industry, we bring a wealth of knowledge and expertise to every project.</li>
+                <li><span className="font-bold">Customer-Centric</span>: Our clients are at the heart of everything we do. We listen, understand, and deliver solutions that meet their needs.</li>
+                <li><span className="font-bold">Innovation-Driven</span>: We stay ahead of the curve by continuously exploring new technologies and methodologies.</li>
               </ul>
             </div>
             <div className="text-center">

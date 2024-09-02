@@ -4,7 +4,7 @@ import React from 'react'
 export default function Header() {
   return (
     <div>
-      <header className=" text-white py-4">
+      <header className=" text-white py-4 mb-10 ">
       <div className="container mx-auto flex items-center justify-between">
         <div className="flex items-center">
           <svg className="w-8 h-8 text-white mr-2" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
